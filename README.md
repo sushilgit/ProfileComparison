@@ -22,3 +22,5 @@ Assigned Apps, Object Settings which includes - Object Access, Page Layout Assig
 
 
 What are the permissions not compared by this tool -Assigned Connected App, Named Credential Access, Data Category Visibility, Desktop Client Access, Login Hours, Login IP Ranges, Service Providers, Session Timeout, Password Policies
+
+Limitation - In case you have App Exchange Packages, Above xml will not retrieve profile permisssion for packages. You will have to retrieve app exchange package permission separately. 
