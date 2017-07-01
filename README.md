@@ -6,7 +6,7 @@ How is the tool built– This tool is built in Java and uses XML DOM Parser for 
 
 How to use this Tool – Dowload the zip file from the repo and then Follow below steps for using this tool –
 
-1. Go to Tool folder and Use package.xml given with code to retrieve metadata from Workbench or you can use Force.com Migration tool. Just make sure all standard objects that we are using are listed in this xml.(Ideally you dont have to change this since most of the objects are already listed) 
+1. Go to Tool folder and Use package.xml given with code to retrieve metadata from Workbench or you can use Force.com Migration tool. Just make sure all standard objects that we are using are listed in this xml.(Ideally you dont have to change this since most of the objects are already listed) - If you dont know how to retrieve profile using workbench, here are the instructions - https://sushilsfdc.blogspot.com/2017/04/retrieve-salesforce-profile-xml-using.html
 
 2. Once you have retrieved the code, Open the profiles folder in retrieved package and Copy below files in that folder - 
 CompareProfiles.bat
